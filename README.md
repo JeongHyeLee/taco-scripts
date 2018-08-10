@@ -1,6 +1,6 @@
 <img src="https://github.com/sktelecom-oslab/docs/blob/master/images/taco-logo.png" width="300">
 
-# TACO Installation Scripts
+# TACO Installation Scripts by JHLee
 
 This set of scripts let anyone install TACO AIO (All-In-One) on a single machine.
 
